@@ -1,0 +1,89 @@
+C:\Users\Wolan\Documents\Visual Studio 2017\Projects\Pogodynka\Pogodynka\bin\Debug\Pogodynka.dll
+C:\Users\Wolan\Documents\Visual Studio 2017\Projects\Pogodynka\Pogodynka\bin\Debug\Pogodynka.pdb
+C:\Users\Wolan\Documents\Visual Studio 2017\Projects\Pogodynka\Pogodynka\bin\Debug\Pogodynka.Pogodynka.apk
+C:\Users\Wolan\Documents\Visual Studio 2017\Projects\Pogodynka\Pogodynka\bin\Debug\Pogodynka.Pogodynka-Signed.apk
+C:\Users\Wolan\Documents\Visual Studio 2017\Projects\Pogodynka\Pogodynka\obj\Debug\Pogodynka.dll
+C:\Users\Wolan\Documents\Visual Studio 2017\Projects\Pogodynka\Pogodynka\obj\Debug\Pogodynka.pdb
+C:\Users\Wolan\Documents\Visual Studio 2017\Projects\Pogodynka\Pogodynka\obj\Debug\android\bin\Pogodynka.Pogodynka.apk
+C:\Users\Wolan\Documents\Visual Studio 2017\Projects\Pogodynka\Pogodynka\obj\Debug\res\layout\main.xml
+C:\Users\Wolan\Documents\Visual Studio 2017\Projects\Pogodynka\Pogodynka\obj\Debug\res\values\strings.xml
+C:\Users\Wolan\Documents\Visual Studio 2017\Projects\Pogodynka\Pogodynka\obj\Debug\res\drawable\icon.png
+C:\Users\Wolan\Documents\Visual Studio 2017\Projects\Pogodynka\Pogodynka\obj\Debug\R.cs.flag
+C:\Users\Wolan\Documents\Visual Studio 2017\Projects\Pogodynka\Pogodynka\obj\Debug\uploadflags.txt
+C:\Users\Wolan\Documents\Visual Studio 2017\Projects\Pogodynka\Pogodynka\bin\Debug\Pogodynka.dll.mdb
+C:\Users\Wolan\Documents\Visual Studio 2017\Projects\Pogodynka\Pogodynka\bin\Debug\Java.Interop.dll.mdb
+C:\Users\Wolan\Documents\Visual Studio 2017\Projects\Pogodynka\Pogodynka\bin\Debug\Microsoft.CSharp.dll.mdb
+C:\Users\Wolan\Documents\Visual Studio 2017\Projects\Pogodynka\Pogodynka\bin\Debug\Mono.Android.dll.mdb
+C:\Users\Wolan\Documents\Visual Studio 2017\Projects\Pogodynka\Pogodynka\bin\Debug\Mono.CSharp.dll.mdb
+C:\Users\Wolan\Documents\Visual Studio 2017\Projects\Pogodynka\Pogodynka\bin\Debug\mscorlib.dll.mdb
+C:\Users\Wolan\Documents\Visual Studio 2017\Projects\Pogodynka\Pogodynka\bin\Debug\System.ComponentModel.Composition.dll.mdb
+C:\Users\Wolan\Documents\Visual Studio 2017\Projects\Pogodynka\Pogodynka\bin\Debug\System.Core.dll.mdb
+C:\Users\Wolan\Documents\Visual Studio 2017\Projects\Pogodynka\Pogodynka\bin\Debug\System.dll.mdb
+C:\Users\Wolan\Documents\Visual Studio 2017\Projects\Pogodynka\Pogodynka\bin\Debug\System.Json.dll.mdb
+C:\Users\Wolan\Documents\Visual Studio 2017\Projects\Pogodynka\Pogodynka\bin\Debug\System.Net.Http.dll.mdb
+C:\Users\Wolan\Documents\Visual Studio 2017\Projects\Pogodynka\Pogodynka\bin\Debug\System.Runtime.Serialization.dll.mdb
+C:\Users\Wolan\Documents\Visual Studio 2017\Projects\Pogodynka\Pogodynka\bin\Debug\System.ServiceModel.Internals.dll.mdb
+C:\Users\Wolan\Documents\Visual Studio 2017\Projects\Pogodynka\Pogodynka\bin\Debug\System.Xml.dll.mdb
+C:\Users\Wolan\Documents\Visual Studio 2017\Projects\Pogodynka\Pogodynka\bin\Debug\System.Xml.Linq.dll.mdb
+C:\Users\Wolan\Documents\Visual Studio 2017\Projects\Pogodynka\Pogodynka\obj\Debug\android\assets\Java.Interop.dll.mdb
+C:\Users\Wolan\Documents\Visual Studio 2017\Projects\Pogodynka\Pogodynka\obj\Debug\android\assets\Microsoft.CSharp.dll.mdb
+C:\Users\Wolan\Documents\Visual Studio 2017\Projects\Pogodynka\Pogodynka\obj\Debug\android\assets\Mono.Android.dll.mdb
+C:\Users\Wolan\Documents\Visual Studio 2017\Projects\Pogodynka\Pogodynka\obj\Debug\android\assets\Mono.CSharp.dll.mdb
+C:\Users\Wolan\Documents\Visual Studio 2017\Projects\Pogodynka\Pogodynka\obj\Debug\android\assets\mscorlib.dll.mdb
+C:\Users\Wolan\Documents\Visual Studio 2017\Projects\Pogodynka\Pogodynka\obj\Debug\android\assets\Pogodynka.dll.mdb
+C:\Users\Wolan\Documents\Visual Studio 2017\Projects\Pogodynka\Pogodynka\obj\Debug\android\assets\System.ComponentModel.Composition.dll.mdb
+C:\Users\Wolan\Documents\Visual Studio 2017\Projects\Pogodynka\Pogodynka\obj\Debug\android\assets\System.Core.dll.mdb
+C:\Users\Wolan\Documents\Visual Studio 2017\Projects\Pogodynka\Pogodynka\obj\Debug\android\assets\System.dll.mdb
+C:\Users\Wolan\Documents\Visual Studio 2017\Projects\Pogodynka\Pogodynka\obj\Debug\android\assets\System.Json.dll.mdb
+C:\Users\Wolan\Documents\Visual Studio 2017\Projects\Pogodynka\Pogodynka\obj\Debug\android\assets\System.Net.Http.dll.mdb
+C:\Users\Wolan\Documents\Visual Studio 2017\Projects\Pogodynka\Pogodynka\obj\Debug\android\assets\System.Runtime.Serialization.dll.mdb
+C:\Users\Wolan\Documents\Visual Studio 2017\Projects\Pogodynka\Pogodynka\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
+C:\Users\Wolan\Documents\Visual Studio 2017\Projects\Pogodynka\Pogodynka\obj\Debug\android\assets\System.Xml.dll.mdb
+C:\Users\Wolan\Documents\Visual Studio 2017\Projects\Pogodynka\Pogodynka\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
+C:\Users\Wolan\documents\visual studio 2017\Projects\Pogodynka\Pogodynka\obj\Debug\Pogodynka.csprojResolveAssemblyReference.cache
+C:\Users\Wolan\documents\visual studio 2017\Projects\Pogodynka\Pogodynka\obj\Debug\Pogodynka.dll.mdb
+C:\Users\Wolan\Desktop\Pogodynka\Pogodynka\bin\Debug\Pogodynka.dll
+C:\Users\Wolan\Desktop\Pogodynka\Pogodynka\bin\Debug\Pogodynka.pdb
+C:\Users\Wolan\Desktop\Pogodynka\Pogodynka\bin\Debug\Pogodynka.Pogodynka.apk
+C:\Users\Wolan\Desktop\Pogodynka\Pogodynka\bin\Debug\Pogodynka.Pogodynka-Signed.apk
+C:\Users\Wolan\Desktop\Pogodynka\Pogodynka\obj\Debug\Pogodynka.csprojResolveAssemblyReference.cache
+C:\Users\Wolan\Desktop\Pogodynka\Pogodynka\obj\Debug\Pogodynka.dll
+C:\Users\Wolan\Desktop\Pogodynka\Pogodynka\obj\Debug\Pogodynka.pdb
+C:\Users\Wolan\Desktop\Pogodynka\Pogodynka\obj\Debug\android\bin\Pogodynka.Pogodynka.apk
+C:\Users\Wolan\Desktop\Pogodynka\Pogodynka\obj\Debug\res\layout\main.xml
+C:\Users\Wolan\Desktop\Pogodynka\Pogodynka\obj\Debug\res\values\strings.xml
+C:\Users\Wolan\Desktop\Pogodynka\Pogodynka\obj\Debug\res\drawable\icon.png
+C:\Users\Wolan\Desktop\Pogodynka\Pogodynka\obj\Debug\R.cs.flag
+C:\Users\Wolan\Desktop\Pogodynka\Pogodynka\obj\Debug\uploadflags.txt
+C:\Users\Wolan\Desktop\Pogodynka\Pogodynka\bin\Debug\Java.Interop.dll.mdb
+C:\Users\Wolan\Desktop\Pogodynka\Pogodynka\bin\Debug\Microsoft.CSharp.dll.mdb
+C:\Users\Wolan\Desktop\Pogodynka\Pogodynka\bin\Debug\Mono.Android.dll.mdb
+C:\Users\Wolan\Desktop\Pogodynka\Pogodynka\bin\Debug\Mono.CSharp.dll.mdb
+C:\Users\Wolan\Desktop\Pogodynka\Pogodynka\bin\Debug\mscorlib.dll.mdb
+C:\Users\Wolan\Desktop\Pogodynka\Pogodynka\bin\Debug\Pogodynka.dll.mdb
+C:\Users\Wolan\Desktop\Pogodynka\Pogodynka\bin\Debug\System.ComponentModel.Composition.dll.mdb
+C:\Users\Wolan\Desktop\Pogodynka\Pogodynka\bin\Debug\System.Core.dll.mdb
+C:\Users\Wolan\Desktop\Pogodynka\Pogodynka\bin\Debug\System.dll.mdb
+C:\Users\Wolan\Desktop\Pogodynka\Pogodynka\bin\Debug\System.Json.dll.mdb
+C:\Users\Wolan\Desktop\Pogodynka\Pogodynka\bin\Debug\System.Net.Http.dll.mdb
+C:\Users\Wolan\Desktop\Pogodynka\Pogodynka\bin\Debug\System.Runtime.Serialization.dll.mdb
+C:\Users\Wolan\Desktop\Pogodynka\Pogodynka\bin\Debug\System.ServiceModel.Internals.dll.mdb
+C:\Users\Wolan\Desktop\Pogodynka\Pogodynka\bin\Debug\System.Xml.dll.mdb
+C:\Users\Wolan\Desktop\Pogodynka\Pogodynka\bin\Debug\System.Xml.Linq.dll.mdb
+C:\Users\Wolan\Desktop\Pogodynka\Pogodynka\obj\Debug\android\assets\Java.Interop.dll.mdb
+C:\Users\Wolan\Desktop\Pogodynka\Pogodynka\obj\Debug\android\assets\Microsoft.CSharp.dll.mdb
+C:\Users\Wolan\Desktop\Pogodynka\Pogodynka\obj\Debug\android\assets\Mono.Android.dll.mdb
+C:\Users\Wolan\Desktop\Pogodynka\Pogodynka\obj\Debug\android\assets\Mono.CSharp.dll.mdb
+C:\Users\Wolan\Desktop\Pogodynka\Pogodynka\obj\Debug\android\assets\mscorlib.dll.mdb
+C:\Users\Wolan\Desktop\Pogodynka\Pogodynka\obj\Debug\android\assets\Pogodynka.dll.mdb
+C:\Users\Wolan\Desktop\Pogodynka\Pogodynka\obj\Debug\android\assets\System.ComponentModel.Composition.dll.mdb
+C:\Users\Wolan\Desktop\Pogodynka\Pogodynka\obj\Debug\android\assets\System.Core.dll.mdb
+C:\Users\Wolan\Desktop\Pogodynka\Pogodynka\obj\Debug\android\assets\System.dll.mdb
+C:\Users\Wolan\Desktop\Pogodynka\Pogodynka\obj\Debug\android\assets\System.Json.dll.mdb
+C:\Users\Wolan\Desktop\Pogodynka\Pogodynka\obj\Debug\android\assets\System.Net.Http.dll.mdb
+C:\Users\Wolan\Desktop\Pogodynka\Pogodynka\obj\Debug\android\assets\System.Runtime.Serialization.dll.mdb
+C:\Users\Wolan\Desktop\Pogodynka\Pogodynka\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
+C:\Users\Wolan\Desktop\Pogodynka\Pogodynka\obj\Debug\android\assets\System.Xml.dll.mdb
+C:\Users\Wolan\Desktop\Pogodynka\Pogodynka\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
+C:\Users\Wolan\Desktop\Pogodynka\Pogodynka\obj\Debug\Pogodynka.dll.mdb
+C:\Users\Wolan\Desktop\Pogodynka\Pogodynka\bin\Debug\Pogodynka.dll.mdb

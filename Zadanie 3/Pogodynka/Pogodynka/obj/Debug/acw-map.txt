@@ -1,0 +1,4 @@
+Pogodynka.MainActivity, Pogodynka;md5256923c6d7edf7cb5b66df2e5eecb938.MainActivity
+Pogodynka.MainActivity, Pogodynka, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5256923c6d7edf7cb5b66df2e5eecb938.MainActivity
+Pogodynka.MainActivity;md5256923c6d7edf7cb5b66df2e5eecb938.MainActivity
+pogodynka.MainActivity;md5256923c6d7edf7cb5b66df2e5eecb938.MainActivity
