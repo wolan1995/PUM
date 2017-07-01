@@ -1,4 +1,4 @@
-# PUM
+# PUM - Kamil Wolański 195091
 # Zadanie 1 - aplikacja do SMS, Dzwonienia i Mailowania
 # Zadanie 2 - Klikanie i asynchroniczne pobieranie obrazka
 # Zadanie 3 - Pogodynka
@@ -8,4 +8,4 @@
 #
 # Projekt końcowy (chat) znajduje się w repozytorium kolegi z grupy. Poniżej link do tego repozytorium:
 #
-#https://github.com/MichalCziter/PumProjekt
+https://github.com/MichalCziter/PumProjekt
