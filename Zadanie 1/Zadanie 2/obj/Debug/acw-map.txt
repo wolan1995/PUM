@@ -1,0 +1,4 @@
+Zadanie_2.MainActivity, Zadanie 2;md55c2b3de823aee70a4271a803c5c9a885.MainActivity
+Zadanie_2.MainActivity, Zadanie 2, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md55c2b3de823aee70a4271a803c5c9a885.MainActivity
+Zadanie_2.MainActivity;md55c2b3de823aee70a4271a803c5c9a885.MainActivity
+zadanie_2.MainActivity;md55c2b3de823aee70a4271a803c5c9a885.MainActivity
