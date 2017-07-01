@@ -1,0 +1,4 @@
+App2.MainActivity, App2;md506f5d8d470dc445d621c844165e4e6c3.MainActivity
+App2.MainActivity, App2, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md506f5d8d470dc445d621c844165e4e6c3.MainActivity
+App2.MainActivity;md506f5d8d470dc445d621c844165e4e6c3.MainActivity
+app2.MainActivity;md506f5d8d470dc445d621c844165e4e6c3.MainActivity
